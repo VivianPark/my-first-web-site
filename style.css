@@ -1,0 +1,18 @@
+.top-container {
+  background-image: url("background.jpg");
+}
+.profile-img {
+    border-radius: 50%;
+    height: 150px
+}
+    
+.name {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Roboto Mono', monospace;
+    color:rgb(84, 107, 98);
+    
+}
+#intro {
+    font-family: 'PT Serif', serif;
+    color:rgb(84,107,98)
+}
