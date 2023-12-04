@@ -1,0 +1,17 @@
+//Exercise 2)
+//Using a for loop print all even numbers up to and including n. Don’t include 0.
+
+
+function printNumbers (n) {
+    var output = [];
+    var count = 2;
+ 
+    for ( var i = 0; i<(n/2); i++) {
+
+       output.push(count);
+       var count = count+2;
+      }
+
+   return output;
+}
+printNumbers(22);
